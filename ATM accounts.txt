@@ -1,0 +1,5 @@
+12345,John,Doe,1800
+23456,Jennifer,Rodriguez,1994
+34567,Bryan,Smith,800
+45678,Julie,Ramirez,900
+56789,Ederson,Ramalho,2900
